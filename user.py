@@ -1,4 +1,3 @@
-from vector import Vector
 from punto import Punto
 from poligono import Poligono
 
@@ -12,13 +11,15 @@ while(flag):
         flag=False
 
 for i in range(0, test_number):
-    test_text = input ("Introduce x del punto " + i + ": ")
+    test_text = input ("Introduce x del punto " + str(i) + ": ")
     x = int(test_text)
-    test_text = input ("Introduce y del punto " + i + ": ")
+    test_text = input ("Introduce y del punto " + str(i) + ": ")
     y = int(test_text)
     puntos.append(Punto(x,y))
 
+Poligono(puntos).tostring()
 
-poligono = Poligono(puntos)
+
+
 
 

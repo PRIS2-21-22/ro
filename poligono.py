@@ -55,13 +55,17 @@ class Poligono:
         else:
             vertices.append(self.vertices[posicion_vertice+1])
         return Poligono(vertices)
-    
     def triangulacion(self,poligono):
         i=0
         triangulos = []
         for i in range(0, len(self.vertices)):
             triangulos.append(self.triangular(i))
         return triangulos
+
+    def tostring(self):
+        print("Puntos del poligono:")
+        for i in range (0,len(self.vertices)):
+            print("Punto " + str(i) + " : " + self.vertices[i].tostring())
 
     
 

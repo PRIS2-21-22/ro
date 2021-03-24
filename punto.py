@@ -1,5 +1,4 @@
 class Punto:
-    
     def __init__(self, x, y):
         self.x = x
         self.y = y
@@ -15,5 +14,8 @@ class Punto:
 
     def set_y(self,aux):
         self.y = aux
+
+    def tostring(self):
+        return "X=" + str(self.x) +", Y=" + str(self.y)
 
 

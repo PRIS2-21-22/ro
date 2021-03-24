@@ -1,5 +1,4 @@
 import math
-import punto
 
 class Vector:
 
@@ -12,7 +11,7 @@ class Vector:
 
     def coordenaday(self):
         return self.punto2.get_y() - self.punto1.get_y()
-    
+
     def modulo(self):
         return math.sqrt(math.pow(self.coordenadax,2)+ math.pow(self.coordenaday,2))
 

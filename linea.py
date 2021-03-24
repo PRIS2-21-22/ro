@@ -1,5 +1,3 @@
-import math
-import punto
 
 class Linea:
 
