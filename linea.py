@@ -2,6 +2,7 @@
 class Linea:
 
     def __init__(self):
+        "Inicia a 0"
         self.x = 0
         self.y = 0
         self.pendiente = 0

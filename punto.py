@@ -1,5 +1,6 @@
 class Punto:
     def __init__(self, x, y):
+        "Inicia con las coordenadas del punto"
         self.x = x
         self.y = y
 

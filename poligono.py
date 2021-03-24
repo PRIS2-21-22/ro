@@ -4,6 +4,7 @@ from punto import Punto
 class Poligono:
 
     def __init__(self, vertices):
+        "Inicia con los vertices"
         self.vertices = vertices
         self.aristas = len(vertices)
 

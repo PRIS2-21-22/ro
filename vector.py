@@ -3,6 +3,7 @@ import math
 class Vector:
 
     def __init__(self, punto1 ,punto2):
+        "Inicia con los dos puntos"
         self.punto1= punto1
         self.punto2 = punto2
 
