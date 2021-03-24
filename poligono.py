@@ -67,6 +67,4 @@ class Poligono:
         for i in range (0,len(self.vertices)):
             print("Punto " + str(i) + " : " + self.vertices[i].tostring())
 
-    
-
 
