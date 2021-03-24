@@ -4,7 +4,9 @@ from punto import Punto
 class Poligono:
 
     def __init__(self, vertices):
-        """El constructor acepta por parametro el array de puntos del que esta conformado"""
+        """El constructor acepta por
+        parametro el array de puntos del que esta conformado
+        """
         self.vertices = vertices
         self.aristas = len(vertices)
 
