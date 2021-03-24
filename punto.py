@@ -1,6 +1,8 @@
 class Punto:
     def __init__(self, x, y):
-        "Inicia con las coordenadas del punto"
+        """El constructor acepta por
+        parametro las coordenadas del punto
+        """
         self.x = x
         self.y = y
 

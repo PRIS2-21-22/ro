@@ -2,7 +2,9 @@
 class Linea:
 
     def __init__(self):
-        "Inicia a 0"
+         """El constructor no acepta por
+        parametro nada
+        """
         self.x = 0
         self.y = 0
         self.pendiente = 0
