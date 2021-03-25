@@ -5,7 +5,7 @@ class Poligono:
 
     def __init__(self, vertices):
         """El constructor acepta por
-        parametro el array de puntos del que esta conformado
+        parametro los puntos que lo definen
         """
         self.vertices = vertices
         self.aristas = len(vertices)

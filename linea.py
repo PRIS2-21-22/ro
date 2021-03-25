@@ -2,8 +2,8 @@
 class Linea:
 
     def __init__(self):
-        """El constructor no acepta por
-        parametro nada
+        """El constructor acepta por
+        parametro los puntos que lo definen
         """
         self.x = 0
         self.y = 0
