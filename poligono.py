@@ -4,8 +4,13 @@ from punto import Punto
 class Poligono:
 
     def __init__(self, vertices):
-        """El constructor acepta por
-        parametro los puntos que lo definen
+        """Function that does something interesting.
+
+        Args:
+            - input - Input of the function
+
+        Returns:
+            - output - Output of the function
         """
         self.vertices = vertices
         self.aristas = len(vertices)

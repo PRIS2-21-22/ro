@@ -1,7 +1,12 @@
 class Punto:
     def __init__(self, x, y):
-        """El constructor acepta por
-        parametro las coordenadas del punto
+        """Function that does something interesting.
+
+        Args:
+            - input - Input of the function
+
+        Returns:
+            - output - Output of the function
         """
         self.x = x
         self.y = y

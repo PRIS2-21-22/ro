@@ -3,8 +3,13 @@ import math
 class Vector:
 
     def __init__(self, punto1 ,punto2):
-        """El constructor acepta por
-        parametro los puntos que lo definen
+        """Function that does something interesting.
+
+        Args:
+            - input - Input of the function
+
+        Returns:
+            - output - Output of the function
         """
         self.punto1= punto1
         self.punto2 = punto2
