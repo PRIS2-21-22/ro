@@ -5,11 +5,6 @@ class Poligono:
 
     def __init__(self, vertices):
         """Function that does something interesting.
-        Args:
-            - input - Input of the function
-
-        Returns:
-            - output - Output of the function
         """
         self.vertices = vertices
         self.aristas = len(vertices)
