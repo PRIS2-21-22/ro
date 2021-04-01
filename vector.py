@@ -3,7 +3,7 @@ import math
 class Vector:
 
     def __init__(self, punto1 ,punto2):
-        """Metodo constructor con el que creamos dos intervalo dando el principio y fin de cada uno""" 
+        """Mteod constructor.""" 
         self.punto1= punto1
         self.punto2 = punto2
 
