@@ -1,13 +1,6 @@
 class Punto:
+     """A 3-dimensional point."""
     def __init__(self, x, y):
-        """Function that does something interesting.
-
-        Args:
-            - input - Input of the function
-
-        Returns:
-            - output - Output of the function
-        """
         self.x = x
         self.y = y
 

@@ -2,14 +2,6 @@
 class Linea:
 
     def __init__(self):
-        """Function that does something interesting.
-
-        Args:
-            - input - Input of the function
-
-        Returns:
-            - output - Output of the function
-        """
         self.x = 0
         self.y = 0
         self.pendiente = 0

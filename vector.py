@@ -3,8 +3,6 @@ import math
 class Vector:
 
     def __init__(self, punto1 ,punto2):
-        """Mteod constructor.
-        """ 
         self.punto1= punto1
         self.punto2 = punto2
 
