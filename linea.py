@@ -2,9 +2,7 @@
 class Linea:
 
     def __init__(self):
-        """El constructor acepta por
-        parametro los puntos que lo definen
-        """
+        """El constructor acepta por parametro los puntos que lo definen"""
         self.x = 0
         self.y = 0
         self.pendiente = 0
