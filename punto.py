@@ -1,6 +1,5 @@
 class Punto:
     
-    """A 3-dimensional point."""
     def __init__(self, x, y):
         self.x = x
         self.y = y

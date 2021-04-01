@@ -3,10 +3,8 @@ from punto import Punto
 
 class Poligono:
 
-    def __init__(self, vertices):
-        self.vertices = vertices
-        self.aristas = len(vertices)
-
+    def __init__(self, punto1 ):
+        self.vertices= punto1
 
     def concavo(self):
         i=0
