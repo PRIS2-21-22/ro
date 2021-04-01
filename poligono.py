@@ -4,7 +4,8 @@ from punto import Punto
 class Poligono:
 
     def __init__(self, vertices):
-        """Function that does something interesting.
+        """
+        Function that does something interesting.
 
         Args:
             - input - Input of the function
