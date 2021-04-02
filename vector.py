@@ -16,5 +16,5 @@ class Vector:
         return math.sqrt(math.pow(self.coordenadax,2)+ math.pow(self.coordenaday,2))
 
     def productovectorial(self,vector):
-        return self.coordenadax()*vector.coordenaday()- self.coordenaday*vector.coordenadax()
+        return self.coordenadax()*vector.coordenaday()- self.coordenaday()*vector.coordenadax()
 
