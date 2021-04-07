@@ -4,7 +4,7 @@ from punto import Punto
 class Poligono:
 
     def __init__(self, vertices):
-        """Metodo constructor"""
+        """Metodo constructor."""
         self.vertices= vertices
 
     def concavo(self):
@@ -54,8 +54,7 @@ class Poligono:
             vertices.append(self.vertices[0])
         else:
             vertices.append(self.vertices[posicion_vertice+1])
-        return Poligono(vertices)
-    
+        return Poligono(vertices) 
     def triangulacion(self,poligono):
         i=0
         triangulos = []

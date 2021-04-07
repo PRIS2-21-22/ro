@@ -2,7 +2,7 @@
 class Linea:
 
     def __init__(self):
-        """Metodo constructor"""
+        """Metodo constructor."""
         self.x = 0
         self.y = 0
         self.pendiente = 0
