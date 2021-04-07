@@ -1,5 +1,6 @@
 class Punto:
     def __init__(self, x, y):
+        """Metodo constructor"""
         self.x = x
         self.y = y
 

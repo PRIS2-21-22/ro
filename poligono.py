@@ -4,6 +4,7 @@ from punto import Punto
 class Poligono:
 
     def __init__(self, vertices):
+        """Metodo constructor"""
         self.vertices= vertices
 
     def concavo(self):
@@ -39,7 +40,6 @@ class Poligono:
         for k in range(1,len(self.vertices)):
             x += (self.vertices[k].get_x()+self.vertices[(k+1)%len(self.vertices)].get_x()) * ((self.vertices[k].get_x()*self.vertices[(k+1)%len(self.vertices)].get_y()) - (self.vertices[(k+1)%len(self.vertices)].get_x()*self.vertices[k].get_y()))
         x = x/(6*z)
-        
         for k in range(1,len(self.vertices)):
             y += (self.vertices[k].get_y()+self.vertices[(k+1)%len(self.vertices)].get_y()) * ((self.vertices[k].get_x()*self.vertices[(k+1)%len(self.vertices)].get_y()) - (self.vertices[(k+1)%len(self.vertices)].get_x()*self.vertices[k].get_y()))
         y = y/(6*z)
