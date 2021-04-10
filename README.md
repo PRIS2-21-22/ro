@@ -37,18 +37,18 @@ En este repositorio se pueden apreciar las diferentes clases que representan est
 <p align="justify">Para intentar identificar estos errores hemos hecho uso de 2 herramientas diferentes, Sonarcloud y Codacy, una vez se identificaban los posibles errores del proyecto que tenías que monitorear, se creaban issues en el repositorio del mismo indicandolos para su arreglo.
 
 ![Sonarcloud](https://github.com/PRIS2/ro/blob/main/img/img1.PNG "Sonarcloud")
-![Codacy](img/img2.png "Codacy")
+![Codacy](https://github.com/PRIS2/ro/blob/main/img/img2.PNG "Codacy")
 
 
 <p align="justify">A medida que iba desarrollando mi código mi supervisor me indicó una serie de errores que había en mi código, una vez considerados, los corregí y una vez resueltos cerré los issues de mi repositorio, cabe destacar que la mayoróa de los smell se deben a Codacy dado que a la hora de programar, lo hacía en VSCode con el paquete de Sonarlint instalado que me indicaba los smells de mi código.
 
-![Issues](img/img3.png "Issues")
+![Issues](https://github.com/PRIS2/ro/blob/main/img/img3.PNG "Issues")
 
 A la vez iba monitoreando el proyecto que me había sido asignado, el proyecto Pi, para ello mire los issues que presentaba el código tanto en Codacy como en Sonarcloud e hice un resumen, además de destacar la fulta de funcialidades en una de las clases.
 
 
-![Issues Pi](img/img5.png "Issues Pi")
-![Issues Pi](img/img4.png "Issues Pi")
+![Issues Pi](https://github.com/PRIS2/ro/blob/main/img/img5.PNG "Issues Pi")
+![Issues Pi](https://github.com/PRIS2/ro/blob/main/img/img1.PNG "Issues Pi")
 
 
 <p align="justify">Con todo esto termina mi informe de la Práctica 3, tambien adjunto el Codacy Badge que indica la calidad del código de mi proyecto según Codacy.
