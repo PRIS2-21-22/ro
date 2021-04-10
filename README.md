@@ -1,4 +1,4 @@
-<h1 style="align: center;">Informe de la Práctica 3</h1>
+<h1 align="center">Informe de la Práctica 3</h1>
 <h3 style="align: center;">Elaborar y Controlar el proyecto TAD</h3>
 <h3 style="align: center;">Realizado por: Ramón Francisco Ramos Tristán</h3>
 
