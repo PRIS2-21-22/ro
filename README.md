@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Informe de la Práctica 3</h1>
-<h3 style="text-align: center;">Elaborar y Controlar el proyecto TAD</h3>
-<h3 style="text-align: center;">Realizado por: Ramón Francisco Ramos Tristán</h3>
+<h1 style="align: center;">Informe de la Práctica 3</h1>
+<h3 style="align: center;">Elaborar y Controlar el proyecto TAD</h3>
+<h3 style="align: center;">Realizado por: Ramón Francisco Ramos Tristán</h3>
 
 
 _Descripción_
@@ -48,7 +48,7 @@ A la vez iba monitoreando el proyecto que me había sido asignado, el proyecto P
 
 
 ![Issues Pi](https://github.com/PRIS2/ro/blob/main/img/img5.PNG "Issues Pi")
-![Issues Pi](https://github.com/PRIS2/ro/blob/main/img/img1.PNG "Issues Pi")
+![Issues Pi](https://github.com/PRIS2/ro/blob/main/img/img4.PNG "Issues Pi")
 
 
 <p align="justify">Con todo esto termina mi informe de la Práctica 3, tambien adjunto el Codacy Badge que indica la calidad del código de mi proyecto según Codacy.
