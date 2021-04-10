@@ -3,7 +3,7 @@
 <h3 style="text-align: center;">Realizado por: Ramón Francisco Ramos Tristán</h3>
 
 
-Descripción
+_Descripción_
 
 <p align="justify">En esta práctica lo que haremos será la implementación en Python de una serie de tipos abstractos de datos. Los tipos que tendrán que desarrollar los alumnos variarán dependiendo de a que proyecto hayan sido asignado.
 
@@ -11,7 +11,7 @@ Descripción
 
 <p align="justify">De esta forma cada alumno tendrá que desarrollar su propio proyecto a medida que va solucionando los problemas que su supervisor le indica y mientras supervisa otro proyecto.
 
-####_Realización_
+_Realización_
 
 <p align="justify">En este caso el tipo de dato al que ha sido asignado es <a href="https://aulavirtual.ual.es/bbcswebdav/pid-1469282-dt-content-rid-6293229_1/courses/COURSE_0000020549/Poligono.pdf">Poligono</a>, en el cual se nos pide implementar una clase que represente a los poligonos y crear una serie de funciones que nos permitan saber si el poligono creado es cóncavo o convexo, triangular un poligono cualquiera mediante el algoritmo de Van Gogh, calcular el centroide del poligono. Además de crear otras clases que nos permitan representar un punto o linea bidimensional.
 
@@ -28,7 +28,7 @@ En este repositorio se pueden apreciar las diferentes clases que representan est
 - <p align="justify">La clase <a href="https://github.com/PRIS2/ro/blob/main/tests.py">tests.py</a> en dónde realizamos las comprabociones de la funcionlidad de las clases poligono y linea, además de implementar una función que nos permite crear un poligono mediante la interacción con la consola y que nos devuelve si el poligono creado es cóncavo o convexo.
 
 
-####_Monitoreo_
+_Monitoreo_
 
 <p align="justify">En este apartado se describirá el proceso de como se ha llevado a cabo la supervisión del proyecto que tenía que revisar y como he modificado mi código para evitar los errores que me ha indicado mi supervisor.
 
