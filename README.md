@@ -36,7 +36,7 @@ En este repositorio se pueden apreciar las diferentes clases que representan est
 
 <p align="justify">Para intentar identificar estos errores hemos hecho uso de 2 herramientas diferentes, Sonarcloud y Codacy, una vez se identificaban los posibles errores del proyecto que tenías que monitorear, se creaban issues en el repositorio del mismo indicandolos para su arreglo.
 
-![Sonarcloud](/img/img1.png "Sonarcloud")
+![Sonarcloud](https://github.com/PRIS2/ro/blob/main/img/img1.PNG "Sonarcloud")
 ![Codacy](img/img2.png "Codacy")
 
 
