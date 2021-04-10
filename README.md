@@ -3,7 +3,7 @@
 <h3 align="center">Realizado por: Ramón Francisco Ramos Tristán</h3>
 
 
-_Descripción_
+_<h4>Descripción</h4>_
 
 <p align="justify">En esta práctica lo que haremos será la implementación en Python de una serie de tipos abstractos de datos. Los tipos que tendrán que desarrollar los alumnos variarán dependiendo de a que proyecto hayan sido asignado.
 
