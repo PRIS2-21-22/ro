@@ -1,9 +1,9 @@
-#<p style="text-align: center;">Informe de la Práctica 3</p>
-##<p style="text-align: center;">Elaborar y Controlar el proyecto TAD</p>
-##<p style="text-align: center;">Realizado por: Ramón Francisco Ramos Tristán</p>
+<h1 style="text-align: center;">Informe de la Práctica 3</h1>
+<h3 style="text-align: center;">Elaborar y Controlar el proyecto TAD</h3>
+<h3 style="text-align: center;">Realizado por: Ramón Francisco Ramos Tristán</h3>
 
 
-####_Descripción_
+Descripción
 
 <p align="justify">En esta práctica lo que haremos será la implementación en Python de una serie de tipos abstractos de datos. Los tipos que tendrán que desarrollar los alumnos variarán dependiendo de a que proyecto hayan sido asignado.
 
